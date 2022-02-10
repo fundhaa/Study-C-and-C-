@@ -1,0 +1,4 @@
+﻿  4_oop4.cpp
+D:\class\cpp_day2\cpp_day2\4_oop4.cpp(34,6): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+D:\class\cpp_day2\cpp_day2\4_oop4.cpp(36,7): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+  cpp_day2.vcxproj -> D:\class\cpp_day2\Debug\cpp_day2.exe
