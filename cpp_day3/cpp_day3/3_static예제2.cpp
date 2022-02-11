@@ -1,3 +1,8 @@
+// 도전과제 : Date 클래스의 멤버 함수를 적절히 const 멤버로 변경해보기
+// Date afterDays(int ds) <=== const 붙여야한다. 값을 변경하지 않기 때문
+// Date d = today.afterDays(1000) <== today 객체 상태 변경 안되므로 const 붙이기
+//			today.setYear(2022) <== 상태 변경되므로 const 붙이면 안된다.
+
 // 3_static 예제2
 #include <iostream>
 
